@@ -8,6 +8,4 @@ ENV N8N_PORT=5678
 ENV WEBHOOK_URL=https://your-subdomain.onrender.com/
 ENV PORT=5678
 
-EXPOSE 5678
-
 CMD ["n8n"]
